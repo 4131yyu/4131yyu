@@ -98,10 +98,10 @@ Interactive Python CLI that simulates all 7 logic gates (AND, OR, NOT, NAND, NOR
 
 | 🏅 Achievement | Detail |
 |---|---|
-| 🥇 1st Place — LKS Mobile Robotics | Provincial level, SMK Teknik Elektronika Industri |
+| 🥇 1st Place — LKS Mobile Robotics | Provincial level, SMK 3 Mataram, Teknik Elektronika Industri |
 | 🤖 Robotics Competitor | PCB design & mobile robotics (SMK era) |
 | 👥 PSDM Division — Programming Community | Organizational development, study group facilitator |
-| 🎯 GenBI Aspirant | Bank Indonesia scholarship target |
+
 
 ---
 

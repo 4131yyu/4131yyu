@@ -2,13 +2,13 @@
 
 > *Informatics student by day · Penetration Testing enthusiast · Linux tinkerer*
 
-I'm a 4th-semester **Informatics (S1)** student at **Universitas Bumigora**, Mataram, NTB — building real-world projects while exploring the world of cybersecurity and system internals.
+I'm a **Informatics (S1)** student at **Universitas Bumigora**, Mataram, NTB — building real-world projects while exploring the world of cybersecurity and system internals.
 
 ---
 
 ## 🎯 About Me
 
-- 🎓 Studying at **Universitas Bumigora**, Mataram — Informatics, Semester 4
+- 🎓 Studying at **Universitas Bumigora**, Mataram — Informatics
 - 🔐 Career goal: **Penetration Tester** (working toward CCNA & security certs)
 - 🐧 Daily driver: **Arch Linux** (GNOME + Hyprland) — because I like to understand how things work
 - 🏆 **1st Place — Provincial LKS Mobile Robotics** (SMK level)
@@ -68,8 +68,7 @@ A full-featured web-based information system for small grocery stores — coveri
 
 A modern e-commerce landing page for a local Lombok traditional weaving UMKM, featuring a WhatsApp-integrated order form and interactive booking experience.
 
-**Stack:** `React` `Tailwind CSS` `Vite` `Anime.js`  
-**Live:** [tenun-bumi-sasak.web.id](https://tenun-bumi-sasak.web.id)  
+**Stack:** `React` `Tailwind CSS` `Vite` `Anime.js`    
 **Highlights:** Smooth animations · Star rating component · WhatsApp deep-link order flow · FTP deployment
 
 ---

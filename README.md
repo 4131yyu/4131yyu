@@ -2,16 +2,16 @@
 
 > *Informatics student by day · Penetration Testing enthusiast · Linux tinkerer*
 
-I'm a **Informatics (S1)** student at **Universitas Bumigora**, Mataram, NTB — building real-world projects while exploring the world of cybersecurity and system internals.
+I'm a **Bachelor of Computer Science** student at **Bumigora University**, Mataram, West Nusa Tenggara — building real-world projects while exploring the world of cybersecurity and system internals.
 
 ---
 
 ## 🎯 About Me
 
-- 🎓 Studying at **Universitas Bumigora**, Mataram — Informatics
+- 🎓 Studying at **Bumigora University**, Mataram — Computer Science
 - 🔐 Career goal: **Penetration Tester** (working toward CCNA & security certs)
 - 🐧 Daily driver: **Arch Linux** (GNOME + Hyprland) — because I like to understand how things work
-- 🏆 **1st Place — Provincial LKS Mobile Robotics** (SMK level)
+- 🏆 **1st Place — Provincial LKS Mobile Robotics** (Vocational High School)
 - 🌱 Active in **Programming Community (PC)** — PSDM Division
 - 💡 Currently exploring: Network security, Linux internals, and Web development
 
@@ -25,7 +25,6 @@ I'm a **Informatics (S1)** student at **Universitas Bumigora**, Mataram, NTB —
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Frameworks & Libraries
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
@@ -43,10 +42,9 @@ I'm a **Informatics (S1)** student at **Universitas Bumigora**, Mataram, NTB —
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
 ### Networking & Security (Learning)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
-![Linux](https://img.shields.io/badge/KVM_Virtualization-333333?style=flat-square&logo=linux&logoColor=white)
+![KVM/QEMU](https://img.shields.io/badge/KVM%2FQEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
 
 ---
 
@@ -57,9 +55,9 @@ I'm a **Informatics (S1)** student at **Universitas Bumigora**, Mataram, NTB —
 
 A full-featured web-based information system for small grocery stores — covering product management, cashier transactions, stock tracking, and PDF reports.
 
-**Stack:** `PHP` `CodeIgniter 3` `MySQL` `Bootstrap 5` `jQuery` `TCPDF`  
-**Role:** Frontend Developer (team of 4)  
-**Highlights:** MVC architecture · Role-based access (admin/cashier) · Auto-calculation with jQuery · PDF report generation
+**Stack:** `PHP` `CodeIgniter 3` `MySQL` `Bootstrap 5` `jQuery` `TCPDF`
+**Role:** Fullstack Contributor (team of 4)
+**Highlights:** MVC architecture · Role-based access (admin/cashier) · Auto-calculation with jQuery · PDF report generation · Debugging & compatibility fixes (PHP 8.x on CI3)
 
 ---
 
@@ -68,8 +66,8 @@ A full-featured web-based information system for small grocery stores — coveri
 
 A modern e-commerce landing page for a local Lombok traditional weaving UMKM, featuring a WhatsApp-integrated order form and interactive booking experience.
 
-**Stack:** `React` `Tailwind CSS` `Vite` `Anime.js`    
-**Highlights:** Smooth animations · Star rating component · WhatsApp deep-link order flow · FTP deployment
+**Stack:** `React` `Tailwind CSS` `Vite`
+**Highlights:** Responsive UI · Star rating component · WhatsApp deep-link order flow · FTP deployment
 
 ---
 
@@ -78,7 +76,7 @@ A modern e-commerce landing page for a local Lombok traditional weaving UMKM, fe
 
 Full system analysis and UML modelling for a spare parts management system at a motorcycle repair shop.
 
-**Deliverables:** Class Diagram · Use Case · Activity · Sequence · DFD Level 3 (draw.io)  
+**Deliverables:** Class Diagram · Use Case Diagram · Activity Diagram · Sequence Diagram · DFD (Level 3)
 **Role:** UML/Modelling Lead
 
 ---
@@ -88,7 +86,7 @@ Full system analysis and UML modelling for a spare parts management system at a 
 
 Interactive Python CLI that simulates all 7 logic gates (AND, OR, NOT, NAND, NOR, XOR, XNOR) with color-coded truth table output.
 
-**Stack:** `Python`  
+**Stack:** `Python`
 **Highlights:** Interactive menu · Color-coded terminal output · SOP method demonstration
 
 ---
@@ -97,10 +95,8 @@ Interactive Python CLI that simulates all 7 logic gates (AND, OR, NOT, NAND, NOR
 
 | 🏅 Achievement | Detail |
 |---|---|
-| 🥇 1st Place — LKS Mobile Robotics | Provincial level, SMK 3 Mataram, Teknik Elektronika Industri |
-| 🤖 Robotics Competitor | PCB design & mobile robotics (SMK era) |
+| 🥇 1st Place — LKS Mobile Robotics | Provincial level, SMK 3 Mataram — PCB design & mobile robotics (Industrial Electronic Engineering) |
 | 👥 PSDM Division — Programming Community | Organizational development, study group facilitator |
-
 
 ---
 
@@ -110,6 +106,8 @@ Interactive Python CLI that simulates all 7 logic gates (AND, OR, NOT, NAND, NOR
   <img src="https://github-readme-stats.vercel.app/api?username=4131yyu&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4131yyu&layout=compact&theme=default&hide_border=true" height="150" />
 </p>
+
+> Note: stats card uses the public vercel instance and may occasionally be slow to load or rate-limited — this is a known limitation of the shared service, not a broken link.
 
 ---
 
